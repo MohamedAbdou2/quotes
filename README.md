@@ -22,4 +22,4 @@ The application generates a random quote from a predefined list of quotes each t
 
 - `index.html`: Contains the HTML structure of the web page.
 - `style.css`: Contains the CSS styles for the web page.
-- `script.js`: Contains the JavaScript code for generating random quotes.
+- `index.js`: Contains the JavaScript code for generating random quotes.
