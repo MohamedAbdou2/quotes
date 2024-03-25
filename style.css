@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+button{
+    background-color: blue;
+    border-style: none;
+    padding: 20px;
+}
+
+button:hover{
+    background-color: green;
+}
